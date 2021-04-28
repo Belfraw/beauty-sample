@@ -1,6 +1,6 @@
 <template>
   <div>
-    f
+    footer
   </div>
 </template>
 <script>
